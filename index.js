@@ -1,1 +1,3 @@
-alert('inside');
+function hello() {
+  alert('inside');
+}
