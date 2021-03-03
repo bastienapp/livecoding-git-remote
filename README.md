@@ -1,3 +1,3 @@
 # Mon premier projet git
 
-C'est super cool
+Disponible sur GitHub
